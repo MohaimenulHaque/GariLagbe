@@ -138,7 +138,7 @@ if (isset($_POST['book'])) {
 							</div>
 
 							<div><br>
-								<button type="submit" name="" class="btn btn-warning" value="book" >Rent the car</button>
+								<button type="submit" name="book" class="btn btn-warning" value="book" >Rent the car</button>
 							</div>
 
 						</form>
